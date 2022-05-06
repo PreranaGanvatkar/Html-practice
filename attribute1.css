@@ -7,6 +7,7 @@
     height: 100px;
     padding: 50px;
     border: 1px solid red;
+    
    
 }
 .name{
@@ -19,5 +20,8 @@
 }
  p{
     color: inherit;
+    text-indent: 2%;
+    text-shadow:1px 1px rebeccapurple ;
+    /* text-align: right; */
     
 } 
