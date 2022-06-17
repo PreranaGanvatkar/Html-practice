@@ -1,0 +1,27 @@
+.moneys{
+    font-size: medium;
+    color: blueviolet;
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-31-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e1ee6e84fa2c584170bab2733ea5a1b0");
+    background-attachment: fixed;
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid red;
+    
+   
+}
+.name{
+    font-size: medium;
+    color:darkblue;
+    background-color:darkgrey;
+    border: solid;
+    margin: 80px 100px 50px 80px;
+    padding: 40px 100px 120px 80px; 
+}
+ p{
+    color: inherit;
+    text-indent: 2%;
+    text-shadow:1px 1px rebeccapurple ;
+    /* text-align: right; */
+    
+} 
