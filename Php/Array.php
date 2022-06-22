@@ -13,4 +13,18 @@ for($i=0;$i<count($test);$i++){
     printf($test[$i]);
     printf("\n");
 }
+unset($test[4]);
+printf("\nAfter deleting\n");
+// foreach($test as $i){
+//     printf($i);
+//     printf("\n");
+// }
+for($i=0;$i<count($test);$i++){
+    printf($test[$i]);
+    printf("\n");
+}
+if(isset($test[1]))
+    printf("Yes element is present value is %d \n",$test[1]);
+else
+    printf("No\n");
 ?>
